@@ -1,0 +1,40 @@
+D:/DigitalSystemsProjects/CA5/testcnt.sv {1 {vlog -work work -sv -stats=none D:/DigitalSystemsProjects/CA5/testcnt.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module modu8cnt_tb
+
+Top level modules:
+	modu8cnt_tb
+
+} {} {}} D:/DigitalSystemsProjects/CA5/Datapath.sv {1 {vlog -work work -sv -stats=none D:/DigitalSystemsProjects/CA5/Datapath.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register
+-- Compiling module shifter
+-- Compiling module subtractor
+-- Compiling module Divider_Datapath
+
+Top level modules:
+	Divider_Datapath
+
+} {} {}} D:/DigitalSystemsProjects/CA5/Divider.sv {1 {vlog -work work -sv -stats=none D:/DigitalSystemsProjects/CA5/Divider.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Divider
+
+Top level modules:
+	Divider
+
+} {} {}} D:/DigitalSystemsProjects/CA5/testDivider.sv {1 {vlog -work work -sv -stats=none D:/DigitalSystemsProjects/CA5/testDivider.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Divider_tb
+
+Top level modules:
+	Divider_tb
+
+} {} {}} D:/DigitalSystemsProjects/CA5/Controller.sv {1 {vlog -work work -sv -stats=none D:/DigitalSystemsProjects/CA5/Controller.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module modu8cnt
+-- Compiling module Divider_Controller
+
+Top level modules:
+	Divider_Controller
+
+} {} {}}

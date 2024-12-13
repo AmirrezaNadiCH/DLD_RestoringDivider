@@ -1,0 +1,19 @@
+# Current time Sun Jun 09 19:51:23 2024
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 62049e6f. Traceback:
+# 0    0x62049e6f: 'Tcl_GetString + 0xf'
+# 1    0x62031f5a: 'TclListObjSetElement + 0x31a'
+# 2    0x7500620c: 'Ordinal222 + 0x144ac'
+# 3    0xc015ff1f: '<unknown (@0xc015ff1f)>'
+# 4    0xa3620981: '<unknown (@0xa3620981)>'
+# 5    0x620c5310: 'Tcl_QueryTimeProc + 0x2f420'
+# 6    0x536005c7: '<unknown (@0x536005c7)>'
+StackWalk failed 0
+# End of Stack Trace
+
