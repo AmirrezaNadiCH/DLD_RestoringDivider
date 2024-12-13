@@ -1,0 +1,153 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Abus_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Abus_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Abus_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Abus_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Abus_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Abus_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Abus_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Abus_out[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Qbus_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Qbus_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Qbus_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Qbus_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Qbus_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Qbus_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Qbus_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Qbus_out[7]",
+					"strict" : false
+				},
+				{
+					"name" : "ready",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "Qbus_in[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Qbus_in[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Qbus_in[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Qbus_in[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Qbus_in[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Qbus_in[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Qbus_in[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Qbus_in[7]",
+					"strict" : false
+				},
+				{
+					"name" : "st",
+					"strict" : false
+				},
+				{
+					"name" : "Mbus_in[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Mbus_in[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Mbus_in[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Mbus_in[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Mbus_in[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Mbus_in[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Mbus_in[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Mbus_in[1]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

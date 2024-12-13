@@ -1,0 +1,7 @@
+
+State Machine - |Divider|Divider_Controller:Controller|state
+Name state.Idle state.Start state.Load state.SSR 
+state.Idle 0 0 0 0 
+state.Load 1 0 1 0 
+state.Start 1 1 0 0 
+state.SSR 1 0 0 1 
