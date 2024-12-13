@@ -1,0 +1,1 @@
+vsim -gui work.Divider_tb -L altera_ver -L cycloneive_ver -sdftyp /UUT=D:/DigitalSystemsProjects/CA5/Quartus/Test/Divider_v.sdo

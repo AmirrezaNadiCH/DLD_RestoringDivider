@@ -1,0 +1,288 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vDivider
+Z0 !s110 1718175477
+!i10b 1
+!s100 j``V?aB^8JWRRGZ9ogcIz0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IaKa`<B?H49VQD_kS41G723
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/DigitalSystemsProjects/CA5/Quartus/Test
+Z4 w1718005051
+Z5 8D:/DigitalSystemsProjects/CA5/Quartus/Test/Divider.svo
+Z6 FD:/DigitalSystemsProjects/CA5/Quartus/Test/Divider.svo
+!i122 0
+L0 32 1833
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1718175477.000000
+Z9 !s107 D:/DigitalSystemsProjects/CA5/Quartus/Test/Divider.svo|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|D:/DigitalSystemsProjects/CA5/Quartus/Test/Divider.svo|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+n@divider
+vDivider_Controller
+Z13 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z14 !s110 1718175478
+!i10b 1
+!s100 AodVaB<j[gKJ4k[gVoOQ^1
+R1
+I03]]zBm^;f4j8TfeTPdzl0
+R2
+S1
+R3
+Z15 w1717884225
+Z16 8D:/DigitalSystemsProjects/CA5/Quartus/Test/Controller.sv
+Z17 FD:/DigitalSystemsProjects/CA5/Quartus/Test/Controller.sv
+!i122 3
+L0 17 65
+R7
+r1
+!s85 0
+31
+Z18 !s108 1718175478.000000
+Z19 !s107 D:/DigitalSystemsProjects/CA5/Quartus/Test/Controller.sv|
+Z20 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/DigitalSystemsProjects/CA5/Quartus/Test/Controller.sv|
+!i113 1
+Z21 o-work work -sv
+R12
+n@divider_@controller
+vDivider_Datapath
+R13
+R14
+!i10b 1
+!s100 j]oG>DP@^8]l37QFA;O0;3
+R1
+IeoKMl8ef>nBWIa0Q19z190
+R2
+S1
+R3
+Z22 w1717759120
+Z23 8D:/DigitalSystemsProjects/CA5/Quartus/Test/Datapath.sv
+Z24 FD:/DigitalSystemsProjects/CA5/Quartus/Test/Datapath.sv
+!i122 4
+L0 28 25
+R7
+r1
+!s85 0
+31
+R18
+Z25 !s107 D:/DigitalSystemsProjects/CA5/Quartus/Test/Datapath.sv|
+Z26 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/DigitalSystemsProjects/CA5/Quartus/Test/Datapath.sv|
+!i113 1
+R21
+R12
+n@divider_@datapath
+vDivider_Full_TB
+R13
+R0
+!i10b 1
+!s100 e:<I:G`Y=i7H:4g]jde1z3
+R1
+I;@ZPFHQSWQZdX[Tm9dUU>0
+R2
+S1
+R3
+w1718031456
+8D:/DigitalSystemsProjects/CA5/Quartus/Test/FullTest.sv
+FD:/DigitalSystemsProjects/CA5/Quartus/Test/FullTest.sv
+!i122 2
+L0 3 35
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/DigitalSystemsProjects/CA5/Quartus/Test/FullTest.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/DigitalSystemsProjects/CA5/Quartus/Test/FullTest.sv|
+!i113 1
+R21
+R12
+n@divider_@full_@t@b
+vDivider_Original
+R13
+R14
+!i10b 1
+!s100 A`WbP4Ll?@0k>ZEO5RU0I0
+R1
+IjShAZS[jcjffnSo_idBDC1
+R2
+S1
+R3
+w1718031320
+8D:/DigitalSystemsProjects/CA5/Quartus/Test/Divider_Original.sv
+FD:/DigitalSystemsProjects/CA5/Quartus/Test/Divider_Original.sv
+!i122 5
+L0 3 9
+R7
+r1
+!s85 0
+31
+R18
+!s107 D:/DigitalSystemsProjects/CA5/Quartus/Test/Divider_Original.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/DigitalSystemsProjects/CA5/Quartus/Test/Divider_Original.sv|
+!i113 1
+R21
+R12
+n@divider_@original
+vDivider_tb
+R13
+R0
+!i10b 1
+!s100 bNV[SQ8bfO[FI21U`CUL@3
+R1
+IeFH]IZ8UMAR76L_P5lV?a0
+R2
+S1
+R3
+w1718028468
+8D:/DigitalSystemsProjects/CA5/Quartus/Test/testDivider.sv
+FD:/DigitalSystemsProjects/CA5/Quartus/Test/testDivider.sv
+!i122 1
+L0 3 32
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/DigitalSystemsProjects/CA5/Quartus/Test/testDivider.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/DigitalSystemsProjects/CA5/Quartus/Test/testDivider.sv|
+!i113 1
+R21
+R12
+n@divider_tb
+vhard_block
+R0
+!i10b 1
+!s100 `SB;hc1cjg4fgQj6O[R3_1
+R1
+IZeJi<FfQ`nMRL`:R[X8nN2
+R2
+R3
+R4
+R5
+R6
+!i122 0
+L0 1866 34
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vmodu8cnt
+R13
+R14
+!i10b 1
+!s100 RNiMNXZL7E7NihR4lRZK43
+R1
+I:03M8l>Ym4lXYHhh9m`ne0
+R2
+S1
+R3
+R15
+R16
+R17
+!i122 3
+L0 3 13
+R7
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 1
+R21
+R12
+vregister
+R13
+R14
+!i10b 1
+!s100 W=:R?a05A;@CeenRaS9Va2
+R1
+Io08OcV=X49DBnJD_[fG?F0
+R2
+S1
+R3
+R22
+R23
+R24
+!i122 4
+L0 3 15
+R7
+r1
+!s85 0
+31
+R18
+R25
+R26
+!i113 1
+R21
+R12
+vshifter
+R13
+R14
+!i10b 1
+!s100 o9ZG_U<;PPMIZG`g7`4;h3
+R1
+I`nbfQ1Zj@7BK7165:mIiW3
+R2
+S1
+R3
+R22
+R23
+R24
+!i122 4
+L0 19 3
+R7
+r1
+!s85 0
+31
+R18
+R25
+R26
+!i113 1
+R21
+R12
+vsubtractor
+R13
+R14
+!i10b 1
+!s100 FTIc_5D2j;Rm[g@G;iEo80
+R1
+Ij[O_]o@YS;^SlczdnJgM`3
+R2
+S1
+R3
+R22
+R23
+R24
+!i122 4
+L0 23 3
+R7
+r1
+!s85 0
+31
+R18
+R25
+R26
+!i113 1
+R21
+R12
